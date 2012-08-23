@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/ich/highlight.cs.png)](http://travis-ci.org/ich/highlight.cs)
 # Highlight.js
 
 Highlight.js highlights syntax in code examples on blogs, forums and,
